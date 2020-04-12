@@ -1,0 +1,56 @@
+@import './default.less';
+
+.center-align {
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.threat-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  border-bottom: 1px solid grey;
+  height: 5rem;
+  margin: 1rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.description, .chart, .grids {
+  margin: 1rem;
+  border: 1px solid lightgrey;
+}
+.chart {
+  display: flex;
+  flex-direction: column;
+  min-height: 15rem;
+
+  .chart-header {
+    margin-left: 2rem;
+    margin-top: 1rem;
+
+    &>div>span:nth-of-type(1) {
+      font-size: larger;
+      font-weight: bold;
+    }
+  }
+  .chart-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem;
+  }
+}
+.grids {
+  display: flex;
+  justify-content: space-between;
+
+  .grid-items {
+    width: 49%;
+    border: 1px solid lightgray;
+  }
+}

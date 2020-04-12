@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "tests": 3,
+    "passes": 3,
+    "failures": 0,
+    "duration": 16437,
+    "start": "2020-04-12T23:39:47.458Z",
+    "end": "2020-04-12T23:40:03.895Z"
+  },
+  "failures": [],
+  "passes": [
+    {
+      "title": "should render the Threat Page with Error State",
+      "fullTitle": "Threat Page should render correctly should render the Threat Page with Error State",
+      "duration": 6054,
+      "errorCount": 0
+    },
+    {
+      "title": "should render the Threat Page with Error State",
+      "fullTitle": "Threat Component should render Empty State should render the Threat Page with Error State",
+      "duration": 6280,
+      "errorCount": 0
+    },
+    {
+      "title": "should render the Threat Component with Data",
+      "fullTitle": "Threat Component should render Empty State should render the Threat Component with Data",
+      "duration": 6280,
+      "errorCount": 0
+    }
+  ],
+  "skipped": []
+}

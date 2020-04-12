@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85dcc1d8-b73c-4fea-b5e3-ae6e191e1ae5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a30SqxNir3kUZNg7aRMxoG7uoR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react-app" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\React-Code\reporting-sample\reporting-sample\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\React-Code\reporting-sample\reporting-sample\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Threat Component should render Empty State.should render the Threat Component with Data">
+    <configuration name="Threat Component should render Empty State.should render the Threat Component with Data" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/threat.test.js" />
+      <test-names>
+        <test-name value="Threat Component should render Empty State" />
+        <test-name value="should render the Threat Component with Data" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Threat Component should render Empty State.should render the Threat Page with Error State" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/threat.test.js" />
+      <test-names>
+        <test-name value="Threat Component should render Empty State" />
+        <test-name value="should render the Threat Page with Error State" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Threat Page should render correctly" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/threats/index.test.js" />
+      <test-names>
+        <test-name value="Threat Page should render correctly" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Threat Page should render correctly.should render the Threat Component with Data" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/threats/index.test.js" />
+      <test-names>
+        <test-name value="Threat Page should render correctly" />
+        <test-name value="should render the Threat Component with Data" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Threat Page should render correctly.should render the Threat Page with Error State" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/threats/index.test.js" />
+      <test-names>
+        <test-name value="Threat Page should render correctly" />
+        <test-name value="should render the Threat Page with Error State" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Threat Component should render Empty State.should render the Threat Component with Data" />
+        <item itemvalue="Jest.Threat Component should render Empty State.should render the Threat Page with Error State" />
+        <item itemvalue="Jest.Threat Page should render correctly.should render the Threat Component with Data" />
+        <item itemvalue="Jest.Threat Page should render correctly.should render the Threat Page with Error State" />
+        <item itemvalue="Jest.Threat Page should render correctly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85dcc1d8-b73c-4fea-b5e3-ae6e191e1ae5" name="Default Changelist" comment="" />
+      <created>1585948972674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585948972674</updated>
+      <workItem from="1585948975119" duration="1171000" />
+      <workItem from="1586544321640" duration="23768000" />
+      <workItem from="1586629049193" duration="27877000" />
+      <workItem from="1586719373661" duration="12915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="132" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586559668200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="406" y="132" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1586559668200" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586545363931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1586545363931" />
+    <state x="278" y="114" key="EditFileWatcherDialog" timestamp="1586545739686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="278" y="114" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1586545739686" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1586544921458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586544921458" />
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom" timestamp="1586732760498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586732760498" />
+    <state width="1259" height="184" key="GridCell.Tab.0.center" timestamp="1586732760498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586732760498" />
+    <state width="1259" height="184" key="GridCell.Tab.0.left" timestamp="1586732760498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586732760498" />
+    <state width="1259" height="184" key="GridCell.Tab.0.right" timestamp="1586732760498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586732760498" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586545727977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586545727977" />
+    <state x="449" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586664380155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="449" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1586664380155" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1586657923728">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1586657923728" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586549497340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586549497340" />
+  </component>
+</project>
